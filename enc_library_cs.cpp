@@ -1,5 +1,5 @@
 /**
- * @file enc_library_cs.cpp
+ * @file enc_library.cpp
  * @author Carl Slatter
  * @date 1st April 2020
  * @version 1.0
@@ -11,7 +11,7 @@
 #include <set>
 #include <functional>
 #include <fstream>
-#include "enc_library_cs.hpp"
+#include "enc_library.hpp"
 
 /**
  * @brief Calculates the length of a given string
