@@ -1,6 +1,6 @@
 //every other file points to this hpp which includes the header guarding file
 //inclusion of header guards in this file would cause issues as include is required for data typing of prototypes
-#include "enc_headerGuard_cs.hpp"
+#include "enc_headerGuard.hpp"
 #include <iostream>
 #include <map>
 
