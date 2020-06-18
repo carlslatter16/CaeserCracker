@@ -1,6 +1,6 @@
 /**
  * @file enc_library_cs.cpp
- * @author Carl Slatter w18004969 
+ * @author Carl Slatter
  * @date 1st April 2020
  * @version 1.0
  * @brief A Caeser Cipher decrypter class based on patterns in the english langauge
